@@ -1,3 +1,8 @@
+# Nama  : Jovita Fashya Islami
+# NIM   : H1D024125
+# Shift KRS : G
+# Shift Baru : F
+
 KNOWLEDGE_BASE = {
 
     "K01": {
